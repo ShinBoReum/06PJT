@@ -17,7 +17,7 @@
 
 <!-- 	#. 로그인한 회원이면...	-->
 <html>
-	<head><title>Home Page</title></head>
+	<head><title>Home Page 수정수정수정</title></head>
 	<body>
 	
 	<!-- ///////////// 추 가 된  부 분(~~Controller 가 전달하는 Message 출력)  ////////////-->
